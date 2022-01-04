@@ -7,7 +7,7 @@ num = gets.to_i
 puts "enetr num2"
 num2 = gets.to_i
 
-puts "enetr num2"
+puts "enetr num3"
 num3 = gets.to_i
 
 if (num%10 == num2%10 || num2%10 == num3%10 || num3%10 == num%10)
