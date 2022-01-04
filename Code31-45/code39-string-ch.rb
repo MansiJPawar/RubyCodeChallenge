@@ -8,3 +8,4 @@ if ((str.include?("i")) == true)
  else
     puts "No i present"
 end
+
