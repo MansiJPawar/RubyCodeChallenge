@@ -1,5 +1,4 @@
 # Ruby program to display the current date and time
-
 time = Time.new
 
 #time
